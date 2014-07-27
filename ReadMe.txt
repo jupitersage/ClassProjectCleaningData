@@ -1,7 +1,3 @@
-ClassProjectCleaningData
-========================
-
-Getting &amp; Cleaning Data Course Project
 README 
 this README is an attempt to explain what the analysis files did. 
 This data is tidy because: 
@@ -27,6 +23,18 @@ Y is the activities performed
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+Why are these names descriptive?
 
 
 An overall description of the objects and what the audience can expect to gain by 
